@@ -1,6 +1,6 @@
-#My Projects:
+# My Projects:
 
-##CalendarZoomUpdator
+## CalendarZoomUpdator
 Python, Google API, web scraping
 Python program made to make online studying easier for me and my classmates.
 
@@ -8,45 +8,44 @@ Program browses student email account finding links and dates for Zoom classes a
 
 https://github.com/sereczeq/CalendarZoomUpdator
 
-###Data Structures
+### Data Structures
 Java
 Coding different data structures in Java to learn how they work under the hood
 
 https://github.com/sereczeq/Data-Structures
 
-###Memory Game
+### Memory Game
 .NET, C#, Windows Forms
 Memory game made in windows forms
 https://github.com/sereczeq/C-/tree/main/Sobota
 
-###Matrices, Unit Testing, Pointers
+### Matrices, Unit Testing, Pointers
 C++, Google Test
 Coding structures such as Smart Pointers and Trees in C++. FInished learning with a big project: matrices including many complex matrix operations. Testing with Google Test.
 
 https://github.com/sereczeq/CPP
 
-I hereby consent to my personal data being processed for the purpose of considering my application.
 
-Neural Network Floppy Bird
+### Neural Network Floppy Bird
 Python, Neural Network, pygame
 Simple game with the purpose of learning the basics of neural networks. The record was 15 points ;)
 
 https://github.com/sereczeq/NeuralNetworkFloppyBird
 
  
-###Multiple Unity Games
+### Multiple Unity Games
 Unity 3D, C#, Blender
 Unity Games I'm making for my teaching job. I decided to include them as my own because the code is written by me line by line. I also included a lot of modifications, appended the content, and modernized the games. Note that they are not my own ideas.
 
 https://github.com/sereczeq/Unity-Projects
 
-###2D Tank Game
+### 2D Tank Game
 Unity 3D, C#
 My first Unity Game worth sharing. Includes complicated custom labyrinth-creating algorithm, multiple weapons for tanks, and state saving.
 
 https://github.com/sereczeq/czo-gi
 
-###Online Poker Game
+### Online Poker Game
 Java, Sockets
 It was one of my first 'big' projects. The main part of it was learning how sockets work in Java, which I accomplished.
 
