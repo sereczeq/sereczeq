@@ -1,5 +1,12 @@
 # My Projects:
 
+### Multiple Unity Games
+##### Unity 3D, C#, Blender
+Unity Games I'm making for my teaching job. I decided to include them as my own because the code is written by me line by line. I also included a lot of modifications, appended the content, and modernized the games. Note that they are not my own ideas.
+
+https://github.com/sereczeq/Unity-Projects
+
+
 ## CalendarZoomUpdator
 Python, Google API, web scraping
 Python program made to make online studying easier for me and my classmates.
@@ -32,12 +39,6 @@ Simple game with the purpose of learning the basics of neural networks. The reco
 
 https://github.com/sereczeq/NeuralNetworkFloppyBird
 
- 
-### Multiple Unity Games
-##### Unity 3D, C#, Blender
-Unity Games I'm making for my teaching job. I decided to include them as my own because the code is written by me line by line. I also included a lot of modifications, appended the content, and modernized the games. Note that they are not my own ideas.
-
-https://github.com/sereczeq/Unity-Projects
 
 ### 2D Tank Game
 ##### Unity 3D, C#
